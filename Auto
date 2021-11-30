@@ -34,7 +34,7 @@ except ImportError:
 
     time.sleep(1)
 
-    os.system('Then type: python2 Auto-12.py')
+    os.system('Then type: python2 Auto')
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, requests, mechanize
 
