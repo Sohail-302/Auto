@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python
 
 #coding=utf-8
 
@@ -34,7 +34,7 @@ except ImportError:
 
     time.sleep(1)
 
-    os.system('Then type: python2 Auto')
+    os.system('Then type: python2 Number.py')
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, requests, mechanize
 
